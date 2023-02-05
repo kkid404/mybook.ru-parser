@@ -6,7 +6,7 @@ Allows you to download books and get them in PDF format. Developed on selenium a
 <h2>To work you need to:</h2>
 <ul>
 
-<li>Specify the login information for your account on the site in the requirements.txt file
+<li>Specify the login information for your account on the site in the settings.ini file
 <p>You can get free access for 2 weeks by registering a new account</p></li>
 
 <li>Run the create_coocke_mybook module from the Coockie class </li>
